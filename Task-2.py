@@ -1,4 +1,4 @@
-#Task -1  SIMPLE CALCULATOR
+#Task -2   CALCULATOR
 
 import tkinter as tk
 window = tk.Tk()

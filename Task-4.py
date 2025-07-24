@@ -1,4 +1,4 @@
-#Task - 2   Rock-Paper-Scissors Game
+#Task - 4   Rock-Paper-Scissors Game
 import tkinter as tk
 from tkinter import messagebox
 import random
